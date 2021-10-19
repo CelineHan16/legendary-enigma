@@ -1,0 +1,112 @@
+.text-right {
+  text-align: right;
+}
+.texr-center {
+  text-align: center;
+}
+.text-justify {
+  text-align: justify;
+}
+.text-bold {
+  font-weight: bold;
+}
+.text-underline {
+  text-decoration: underline;
+}
+.text-italic {
+  font-style: italic;
+}
+.text-blue {
+  color: blue;
+}
+.text-red {
+  color: red;
+}
+.text-green {
+  color: rgb(22, 117, 22);
+}
+.text-yellow {
+  color: rgb(145, 13, 123);
+}
+.text-white {
+  color: white;
+}
+.bg-blue {
+  background-color: rgb(178, 127, 202);
+}
+.bg-red {
+  background-color: rgba(240, 126, 33, 0.856);
+}
+.bg-green {
+  background-color: rgb(1, 199, 140);
+}
+.bg-yellow {
+  background-color: rgba(229, 255, 0, 0.781);
+}
+.bg-white {
+  background-color: white;
+}
+.border {
+  border: 2px solid rgb(95, 89, 89);
+  padding: 5px;
+}
+.align-left {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.align-right {
+  float: right;
+  margin-left: 10px;
+}
+.border-dashed {
+  border-style: dashed;
+}
+.border-dotted {
+  border-style: dotted;
+}
+.border-rounder {
+  border-radius: 6px;
+}
+.btn {
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+}
+.btn-blue {
+  background-color: blue;
+  color: white;
+}
+.btn-gray {
+  background-color: rgb(88, 86, 86);
+  color: white;
+}
+.btn-green {
+  background-color: green;
+  color: white;
+}
+.btn-red {
+  background-color: red;
+  color: white;
+}
+.btn-yellow {
+  background-color: yellow;
+}
+.btn-lightblue {
+  background-color: rgb(12, 191, 250);
+}
+.btn-white {
+  background-color: rgb(233, 230, 230);
+}
+.btn-black {
+  background-color: black;
+  color: white;
+}
+.btn-small {
+  font-size: 12px;
+  padding: 8px;
+}
+.btn-large {
+  font-size: 20px;
+  padding: 15px;
+}
